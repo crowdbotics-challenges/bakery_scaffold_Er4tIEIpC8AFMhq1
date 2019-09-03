@@ -1,3 +1,5 @@
+[![Status](https://img.shields.io/badge/status-submittable-brightgreen.svg)](https://travis-ci.com/crowdbotics-challenges/bakery_scaffold_Er4tIEIpC8AFMhq1/builds/125788852)
+
 # Instructions 
 
 Add the following item to your Dashboard products and complete the provided "order.html" form to include a Client checkout integration. Have the cancel URL return back to order form, and have the success URL direct the customer to order_success.html. 
